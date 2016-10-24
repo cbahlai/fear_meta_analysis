@@ -26,7 +26,7 @@ library(metafor)
 #call the citation so it's handy in the output
 citation("metafor")
 
-#also call plyr, we'll need it later
+#also call plyr, we'll need it later to summarize output from the meta-analysis
 library(plyr)
 #call the citation so it's handy in the output
 citation("plyr")
